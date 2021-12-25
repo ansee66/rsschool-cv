@@ -2,11 +2,11 @@
 ![Фотография](photo.jpg)
 
 ## Contacts
-* Location: Yekaterinburg, Russia
-* Phone: +7 912 695 83 63
-* Email: ns-66@yandex.ru
-* GitHub: ansee66
-* Discord: Natalya Solovyeva (@ansee66)
+* **Location:** Yekaterinburg, Russia
+* **Phone:** +7 912 695 83 63
+* **Email:** ns-66@yandex.ru
+* **GitHub:** ansee66
+* **Discord:** Natalya Solovyeva (@ansee66)
 
 ## About Me
 I am a marketer by education and have worked in this field most of the time. But over the past year or two, I have been increasingly interested in frontend development and I am studying it as much as possible.
@@ -43,9 +43,9 @@ At the moment I have little experience in frontend development: I've been workin
 [Cat Energy](https://github.com/ansee66/1491863-cat-energy-21 "Source code of adaptive layout training project")
 
 ## Education
-* University: Ural Federal University, marketing
-* Intensive course "HTML & CSS. Adaptive Website Coding and Automation" at HTML Academy
-* Interactive course "Basic JavaScript" at FreeCodeCamp
+* **University:** Ural Federal University, marketing
+* **Intensive course:** "HTML & CSS. Adaptive Website Coding and Automation" at HTML Academy
+* **Interactive course:** "Basic JavaScript" at FreeCodeCamp
 
 ## English
 English level - A2
