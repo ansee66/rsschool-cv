@@ -1,5 +1,5 @@
 # Natalya Solovyeva
-![Фотография](img/photo.png)
+![Фотография](photo.jpg)
 
 ## Contacts
 * **Location:** Yekaterinburg, Russia
